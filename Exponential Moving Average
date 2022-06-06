@@ -1,0 +1,7 @@
+Import pandas as pd
+#this is currently just scratch paper for coding a bunch of indicators in python
+
+
+Def ema(data: pd.DataFrameName, period: value)
+DataFrameName.ewm(com=value).mean()
+Return ema.
